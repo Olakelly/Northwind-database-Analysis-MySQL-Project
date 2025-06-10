@@ -38,6 +38,11 @@ Queries in this script reference several Northwind tables, including:
 - `Order_Details`
 
 ---
+## Examples of Query
+![Screenshot 2025-06-10 160851](https://github.com/user-attachments/assets/d6a605f2-7ec4-4e8e-8e26-9c1ee839ac89)
+![Screenshot 2025-06-10 160803](https://github.com/user-attachments/assets/bfa34a7d-d247-4962-9e22-c1cdf33dbe5a)
+
+---
 
 ## 🚀 How to Use
 
